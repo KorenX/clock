@@ -13,4 +13,4 @@ while True:
 	system("git add .")
 	system("git commit -m \"Update time\"")
 	system("git push origin master")
-	time.sleep(600)
+	time.sleep(60)
